@@ -1,0 +1,5 @@
+#EXTINF:-1 group-title=Archive.Org",Ant-Man and the Wasp
+https://archive.org/download/avispa.1080p.lat.www.hackstore.net/ERE34/AVISPA.1080p.LAT.Www.Hackstore.Net.mkv
+
+#EXTINF:-1 group-title=Archive.Org",Doctor Strange
+https://archive.org/download/avispa.1080p.lat.www.hackstore.net/ERE34/DRextra%C3%B1oLATHD.mp4
